@@ -1,13 +1,44 @@
 {
-    "posts": [
-        { "id": "1", "title": "a title", "views": 100 },
-        { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-        { "id": "1", "text": "a comment about post 1", "postId": "1" },
-        { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-        "name": "typicode"
+  "posts": [
+    {
+      "id": "4",
+      "title": "Négy"
+    },
+    {
+      "id": "6",
+      "title": "Szamár"
+    },
+    {
+      "id": "7",
+      "title": "Kutya"
+    },
+    {
+      "id": "8",
+      "title": "Béka"
+    },
+    {
+      "id": "9",
+      "title": "Alma"
+    },
+    {
+      "id": "10",
+      "title": "Körte"
+    },
+    {
+      "id": "11",
+      "title": "Róka"
+    },
+    {
+      "id": "13",
+      "title": "Nyúl"
+    },
+    {
+      "id": "14",
+      "title": "Új tizennégy"
+    },
+    {
+      "id": "16",
+      "title": "Almáslepény"
     }
+  ]
 }

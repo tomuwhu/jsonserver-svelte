@@ -4,6 +4,7 @@
 	"private": true,
 	"scripts": {
 		"server": "npx json-server db.json",
+		"start": "npx json-server db.json & vite dev",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
