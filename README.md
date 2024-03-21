@@ -1,28 +1,32 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
-
-## Creating a project
+## Installing dependencies
 
 If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
+npm i
 ```
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+
+
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a front-end development server:
 
 ```bash
 npm run dev
+```
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
+Strat fake json server (aviable on localhost:3000):
+
+```bash
+npm run server
+```
+
+or run them both:
+
+```bash
+npm start
 ```
 
 ## Building
