@@ -1,44 +1,16 @@
 {
   "posts": [
     {
-      "id": "4",
-      "title": "Négy"
+      "id": "0",
+      "title": "alma"
     },
     {
-      "id": "6",
-      "title": "Szamár"
+      "id": "1",
+      "title": "cica"
     },
     {
-      "id": "7",
-      "title": "Kutya"
-    },
-    {
-      "id": "8",
-      "title": "Béka"
-    },
-    {
-      "id": "9",
-      "title": "Alma"
-    },
-    {
-      "id": "10",
-      "title": "Körte"
-    },
-    {
-      "id": "11",
-      "title": "Róka"
-    },
-    {
-      "id": "13",
-      "title": "Nyúl"
-    },
-    {
-      "id": "14",
-      "title": "Új tizennégy"
-    },
-    {
-      "id": "16",
-      "title": "Almáslepény"
+      "id": "2",
+      "title": "valami"
     }
   ]
 }
